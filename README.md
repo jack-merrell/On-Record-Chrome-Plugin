@@ -4,7 +4,7 @@ Record the quiet rectangle. Pin it down before it dissolves.
 
 On Record lets you select a region of the current tab and capture it as a video or a GIF — a soft machine for small moments.
 
-Project website: [on-record.vercel.app](https://on-record.vercel.app/)
+Project website: [onrecord.site](https://www.onrecord.site/)
 
 ![On Record demo](https://on-record.vercel.app/on-record.gif?ts=20260208)
 
